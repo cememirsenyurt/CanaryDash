@@ -1,4 +1,11 @@
 # CanaryDash
+
+![Gameplay1](https://github.com/cememirsenyurt/CanaryDash/assets/104103767/168b5bdb-31b9-465e-be8c-ef9006200639)
+
+
+![GameOver2](https://github.com/cememirsenyurt/CanaryDash/assets/104103767/5a75ef82-1f5e-4076-863e-afaac9814e92)
+
+
 Challenging Navigation Game of Flying Canary Over Obstacles
 
 Introduction
